@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DemoBaasicClass/DemoBaasicClass.iml" filepath="$PROJECT_DIR$/DemoBaasicClass/DemoBaasicClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DemoBaasicClass/DemoLocalDate.iml" filepath="$PROJECT_DIR$/DemoBaasicClass/DemoLocalDate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaApplication1/JavaApplication1.iml" filepath="$PROJECT_DIR$/JavaApplication1/JavaApplication1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaApplication10/JavaApplication10.iml" filepath="$PROJECT_DIR$/JavaApplication10/JavaApplication10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaApplication11/JavaApplication11.iml" filepath="$PROJECT_DIR$/JavaApplication11/JavaApplication11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaApplication12/JavaApplication12.iml" filepath="$PROJECT_DIR$/JavaApplication12/JavaApplication12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaApplication13/JavaApplication13.iml" filepath="$PROJECT_DIR$/JavaApplication13/JavaApplication13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaApplication14/JavaApplication14.iml" filepath="$PROJECT_DIR$/JavaApplication14/JavaApplication14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaApplication2/JavaApplication2.iml" filepath="$PROJECT_DIR$/JavaApplication2/JavaApplication2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaApplication4/JavaApplication4.iml" filepath="$PROJECT_DIR$/JavaApplication4/JavaApplication4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaApplication5/JavaApplication5.iml" filepath="$PROJECT_DIR$/JavaApplication5/JavaApplication5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaApplication6/JavaApplication6.iml" filepath="$PROJECT_DIR$/JavaApplication6/JavaApplication6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaApplication7/JavaApplication7.iml" filepath="$PROJECT_DIR$/JavaApplication7/JavaApplication7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaApplication8/JavaApplication8.iml" filepath="$PROJECT_DIR$/JavaApplication8/JavaApplication8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaApplication9/JavaApplication9.iml" filepath="$PROJECT_DIR$/JavaApplication9/JavaApplication9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP1/OOP1.iml" filepath="$PROJECT_DIR$/OOP1/OOP1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vatcalculator/Vatcalculator.iml" filepath="$PROJECT_DIR$/Vatcalculator/Vatcalculator.iml" />
+    </modules>
+  </component>
+</project>
