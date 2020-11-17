@@ -9,6 +9,13 @@ public class Main {
         p1.setPhoneNumber("(08)-1456-7894"); //0814567894
 
         System.out.println(p1);
+        System.out.println(p1.getPhoneNumber());
+
+        Contact p2 = new Contact("bruce", "waYnE","123456789");
+
+        System.out.println(p2);
+        System.out.println(p2.getPhoneNumber());
+
     }
 
     public static void main(String[] args) {
